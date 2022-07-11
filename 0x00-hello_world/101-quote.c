@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+/**
+ * main - Print text to screen and standard error
+ * Return: Return the value of 1 to show error
+ */
+
+int main(void)
+{
+	fprintf(stderr, "and that piece of art is useful\" - ");
+	fprintf(stderr, "Dora Korpar, 2015-10-19\n");
+
+	return (1);
+}
