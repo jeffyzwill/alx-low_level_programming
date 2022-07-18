@@ -11,5 +11,6 @@ int main(void)
 
 	for (let = 97; (let > 96) && (let < 123); let++)
 		putchar(let);
+	putchar(10);
 	return (0);
 }
