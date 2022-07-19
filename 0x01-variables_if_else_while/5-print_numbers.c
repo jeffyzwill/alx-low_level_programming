@@ -12,7 +12,7 @@ int main(void)
 	for (let = 48; let <= 57; let++)
 	{
 		putchar(let);
-		putchar('\n');
 	}
+	putchar('\n');
 	return (0);
 }
