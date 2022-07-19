@@ -7,7 +7,7 @@
 
 int main(void)
 {
-	int let:
+	int let;
 
 	for (let = 48; (let >= 48) && (let <= 57); let++)
 		putchar(let);
