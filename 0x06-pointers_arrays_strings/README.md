@@ -1,1 +1,1 @@
-Readme for index 6
+# C - More pointers, arrays and strings
